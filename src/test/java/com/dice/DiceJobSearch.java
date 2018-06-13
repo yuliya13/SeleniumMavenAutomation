@@ -52,6 +52,7 @@ public class DiceJobSearch {
 			System.out.println("step fail");
 		}
 		driver.close();
+		System.out.println("Test completed");
 	}
 
 }
